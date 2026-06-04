@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "quill-glow-core"
-version = "0.1.0"
+version = "0.1.1"
 description = "Shared audit/fix/convert service contracts for GLOW and QUILL"
 readme = "README.md"
 requires-python = ">=3.11"
